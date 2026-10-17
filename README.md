@@ -270,4 +270,4 @@ This repository serves as the official landing page for OpenProj. The software i
 **Get the most recent version of OpenProj today!**
 
 ---
-**Last updated:** 2026-10-16 22:17:32 UTC
+**Last updated:** 2026-10-17 00:53:01 UTC
